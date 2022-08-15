@@ -18,4 +18,5 @@ kullanırıg --oneline commitlerimdeki yani versiyonlarimdaki durumu gosteirir
 
 NOT ; git lo9
 NOT : github ogrendim
+NOT :gihub eglenceli
  */
